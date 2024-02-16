@@ -323,7 +323,7 @@ export const products = [
 },
 {
   id: 180,
-  name: 'Tecno Aba',
+  name: 'Joy Vembe',
   price: '$30.99',
   image: require('../../assets/images/joyg.jpg'),
   category:'electronics',
